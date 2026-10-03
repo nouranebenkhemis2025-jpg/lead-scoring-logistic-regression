@@ -1,8 +1,8 @@
-# 🎯 Lead Scoring — Prédire la conversion des prospects avec la régression logistique
+#  Lead Scoring — Prédire la conversion des prospects avec la régression logistique
 
 Projet de **classification binaire** : prédire si un prospect (*lead*) va devenir client.
 
-> 📚 **Basé sur le cours [ML Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) (DataTalks.Club) — module Classification.**
+>  **Basé sur le cours [ML Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) (DataTalks.Club) — module Classification.**
 > J'ai appliqué la méthode du cours sur un autre jeu de données que celui des cours : le *Lead Scoring* de X Education.
 
 ---
